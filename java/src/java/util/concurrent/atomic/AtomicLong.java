@@ -39,6 +39,7 @@ import java.util.function.LongBinaryOperator;
 import sun.misc.Unsafe;
 
 /**
+ * 参见AtomicInteger
  * A {@code long} value that may be updated atomically.  See the
  * {@link java.util.concurrent.atomic} package specification for
  * description of the properties of atomic variables. An
